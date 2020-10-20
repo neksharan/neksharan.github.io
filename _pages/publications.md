@@ -30,3 +30,7 @@ classes: wide
 * N. Sharan and D. J. Bodony. High-order provably stable overset grid methods for block-structured adaptive mesh refinement. AIAA Paper 2013-2872, *21st AIAA Computational Fluid Dynamics Conference*, San Diego, CA. [paper](https://doi.org/10.2514/6.2013-2872){: .btn .btn--primary .btn--small}
 
 * N. Sharan and A. Chatterjee. Parallel Computation of Axisymmetric Jets. *Proceedings of the Python for Education and Scientific Computing* (SciPy.in) 2010, Hyderabad, India. [paper](https://scipy.in/scipyin/2010/talks-cfp/conference/#sec-4_7){: .btn .btn--primary .btn--small}
+
+
+## Thesis
+* N. Sharan. Time-stable high-order finite difference methods for overset grids. Doctoral Dissertation, University of Illinois at Urbana-Champaign, 2016. [thesis](https://www.ideals.illinois.edu/handle/2142/95290){: .btn .btn--primary .btn--small}

@@ -77,8 +77,8 @@ plugins:
 author:
   name   : "Nek Sharan"
   avatar : "/assets/images/NekS.jpg"
-  bio    : "Computational Physicist currently working as a postdoc
-            at the [Los Alamos National Laboratory](https://www.lanl.gov/)"
+  bio    : "Postdoc
+            at [Los Alamos National Laboratory](https://www.lanl.gov/)"
   location: "Los Alamos, USA"
   links:
     - label: "LinkedIn"
