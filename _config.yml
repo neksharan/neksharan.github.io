@@ -1,0 +1,150 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "Filip Nikšić"
+name: "Filip Nikšić"
+email: "fniksic@seas.upenn.edu"
+description: >- # this means to ignore newlines until "baseurl:"
+  Filip Nikšić's personal web page
+url: "https://fniksic.github.io"
+repository: "fniksic/fniksic.github.io"
+minimal_mistakes_skin: "default"
+search: false
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-34103986-3"
+    anonymize_ip: false # default
+
+# Social Sharing
+twitter:
+  username: "FilipNiksic"
+facebook:
+  username: "fniksic"
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type: "Person"
+  name: "Filip Nikšić"
+  links:
+    - "https://www.facebook.com/fniksic"
+    - "https://twitter.com/FilipNiksic"
+    - "https://www.linkedin.com/in/fniksic/"
+    - "https://github.com/fniksic/"
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+# Outputting
+permalink: /blog/:year/:month/:day/:title/
+paginate: 3 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/New_York
+words_per_minute: 200
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Filip Nikšić"
+  avatar : "/assets/images/fn.jpg"
+  bio    : "Computer scientist currently working as a postdoc
+            at the [University of Pennsylvania](https://www.upenn.edu/)"
+  location: "Philadelphia, USA"
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/fniksic"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/FilipNiksic"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/fniksic/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fniksic/"
+
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/fniksic"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/FilipNiksic"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/fniksic/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fniksic/"
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
+    label: "blog post"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
