@@ -4,4 +4,4 @@ permalink: /cv/
 classes: wide
 ---
 
-[PDF](/assets/files/nek-cv-short.pdf){:target="_blank"}{: .btn .btn--primary .btn--small}
+[PDF](/assets/files/nek-cv-short.pdf){: .btn .btn--primary .btn--small}
