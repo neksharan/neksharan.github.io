@@ -21,4 +21,4 @@ classes: wide
 ---
 # Overset grid applications
 <img src="{{site.baseurl}}/images/photos/acous_pulse_grid.png" width="400" height="400"/>
-<img src="{{site.baseurl}}/images/photos/div_vel_mod_crop_n_label_ver2.jpg" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
+<img src="{{site.baseurl}}/images/photos/acous_pulse_soln_t_30_SAT_wo_diss.png" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
