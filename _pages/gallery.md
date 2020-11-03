@@ -5,7 +5,7 @@ classes: wide
 ---
 
 
-# Turbulent shear layer mixing
+# Temporal shear layer mixing
 <img src="{{site.baseurl}}/images/photos/fig12b1_copy.png" width="400" height="400"/>
 <img src="{{site.baseurl}}/images/photos/movie_w_pdf_2400x1380_0020_cropped.png" width="400" height="400"/>
 
