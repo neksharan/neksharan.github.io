@@ -1,8 +1,7 @@
 ---
-layout: photo_set
 title: "Gallery"
 permalink: /gallery/
-classes: wide
+layout: photo_set
 ---
 photos:
     set: berlin
