@@ -27,8 +27,8 @@ classes: wide
 ---
 <img src="{{site.baseurl}}/images/photos/hill_overset_domain.png" width="600" style="vertical-align:middle;margin:0px 50px"/>
 
-<img src="{{site.baseurl}}/images/photos/hill_base_grid_new.eps" width="400" height="400"/>
-<img src="{{site.baseurl}}/images/photos/hill_full_grid_new.eps" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
+<img src="{{site.baseurl}}/images/photos/hill_base_grid_new.png" width="400" height="400"/>
+<img src="{{site.baseurl}}/images/photos/hill_full_grid_new.png" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
 
-<img src="{{site.baseurl}}/images/photos/hill_momentum_t_82p89.eps" width="400" height="400"/>
-<img src="{{site.baseurl}}/images/photos/hill_vorticity_t_82p89_neweps" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
+<img src="{{site.baseurl}}/images/photos/hill_momentum_t_82p89.png" width="400" height="400"/>
+<img src="{{site.baseurl}}/images/photos/hill_vorticity_t_82p89_new.png" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
