@@ -10,3 +10,7 @@ classes: wide
 ---
 <img src="{{site.baseurl}}/images/photos/jet3D_schematic_mod.png" width="400" height="400"/>
 <img src="{{site.baseurl}}/images/photos/jet_atmP_lamTurb_highRes.png" width="400" height="400"/>
+
+---
+<img src="{{site.baseurl}}/images/photos/Panda_edited_whitespace1.png" width="400" height="400"/>
+<img src="{{site.baseurl}}/images/photos/div_vel_mod_crop_n_label_ver2.jpg" width="400" height="400"/>
