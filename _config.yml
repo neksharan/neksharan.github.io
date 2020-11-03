@@ -131,10 +131,3 @@ tag_archive:
   type: liquid
   path: /tags/
   
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-

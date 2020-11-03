@@ -25,7 +25,10 @@ classes: wide
 <img src="{{site.baseurl}}/images/photos/acous_pulse_soln_t_30_SAT_wo_diss.png" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
 
 ---
-<img src="{{site.baseurl}}/images/photos/hill_overset_domain.png" width="600" class="center" style="vertical-align:middle;margin:0px 50px"/>
+<img src="{{site.baseurl}}/images/photos/hill_overset_domain.png" width="600" style="vertical-align:middle;margin:0px 50px"/>
 
 <img src="{{site.baseurl}}/images/photos/hill_base_grid_new.eps" width="400" height="400"/>
 <img src="{{site.baseurl}}/images/photos/hill_full_grid_new.eps" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
+
+<img src="{{site.baseurl}}/images/photos/hill_momentum_t_82p89.eps" width="400" height="400"/>
+<img src="{{site.baseurl}}/images/photos/hill_vorticity_t_82p89_neweps" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
