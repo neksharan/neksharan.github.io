@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 permalink: /gallery/
-layout: posts
+layout: photo_set
 ---
 
 photos:
