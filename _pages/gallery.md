@@ -32,3 +32,7 @@ classes: wide
 
 <img src="{{site.baseurl}}/images/photos/hill_momentum_t_82p89.png" width="400" height="400"/>
 <img src="{{site.baseurl}}/images/photos/hill_vorticity_t_82p89_new.png" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
+---
+# Strong shock structure using the BGK model of Boltzmann equation
+<img src="{{site.baseurl}}/images/photos/shockProfile_M3p38.png" width="400" height="400"/>
+<img src="{{site.baseurl}}/images/photos/InvShk_thickness_new.png" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
