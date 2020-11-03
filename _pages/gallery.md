@@ -2,8 +2,8 @@
 permalink: /gallery/
 classes: wide
 ---
-##
----
+
+
 # Turbulent shear layer mixing
 <img src="{{site.baseurl}}/images/photos/fig12b1_copy.png" width="400" height="400"/>
 <img src="{{site.baseurl}}/images/photos/movie_w_pdf_2400x1380_0020_cropped.png" width="400" height="400"/>
@@ -22,3 +22,9 @@ classes: wide
 # Overset grid applications
 <img src="{{site.baseurl}}/images/photos/acous_pulse_grid.png" width="400" height="400"/>
 <img src="{{site.baseurl}}/images/photos/acous_pulse_soln_t_30_SAT_wo_diss.png" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
+
+---
+<img src="{{site.baseurl}}/images/photos/hill_overset_domain.png" width="600"/>
+
+<img src="{{site.baseurl}}/images/photos/hill_base_grid_new.eps" width="400" height="400"/>
+<img src="{{site.baseurl}}/images/photos/hill_full_grid_new.eps" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
