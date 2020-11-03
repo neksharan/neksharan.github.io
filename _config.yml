@@ -131,14 +131,4 @@ tag_archive:
   type: liquid
   path: /tags/
   
-defaults:
-  -
-    scope:
-      path: "_slides" 
-    values:
-      layout: "iframe"
-
-collections:
-  slides:
-    output: true
 
