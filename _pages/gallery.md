@@ -1,5 +1,4 @@
 ---
-title: "Gallery"
 permalink: /gallery/
 classes: wide
 ---
@@ -17,7 +16,9 @@ classes: wide
 ---
 # Supersonic jet acoustics
 <img src="{{site.baseurl}}/images/photos/Panda_edited_whitespace1.png" width="400" height="400"/>
-<img src="{{site.baseurl}}/images/photos/div_vel_mod_crop_n_label_ver2.jpg" width="400" height="400"/>
+<img src="{{site.baseurl}}/images/photos/div_vel_mod_crop_n_label_ver2.jpg" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
 
 ---
 # Overset grid applications
+<img src="{{site.baseurl}}/images/photos/acous_pulse_grid.png" width="400" height="400"/>
+<img src="{{site.baseurl}}/images/photos/div_vel_mod_crop_n_label_ver2.jpg" width="400" height="400" style="vertical-align:middle;margin:0px 50px"/>
