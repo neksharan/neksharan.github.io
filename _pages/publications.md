@@ -19,9 +19,9 @@ classes: wide
 
 ## Conference papers
 
-* N. Sharan, P. T. Brady and D. Livescu. Finite-difference Cartesian cut-cell method for hyperbolic systems, AIAA Paper 2021-0746, *AIAA Scitech 2020 Forum*, Orlando, FL. [paper](https://doi.org/10.2514/6.2021-0746){: .btn .btn--primary .btn--small}
+* N. Sharan, P. T. Brady and D. Livescu. Finite-difference Cartesian cut-cell method for hyperbolic systems, AIAA Paper 2021-0746, *AIAA Scitech 2021 Forum*, Nashville, TN. [paper](https://doi.org/10.2514/6.2021-0746){: .btn .btn--primary .btn--small}
 
-* N. Sharan and J. R. Bellan. Direct numerical simulation of high-pressure free jets, AIAA Paper 2021-0550, *AIAA Scitech 2020 Forum*, Orlando, FL. [paper](https://doi.org/10.2514/6.2021-0550){: .btn .btn--primary .btn--small}
+* N. Sharan and J. R. Bellan. Direct numerical simulation of high-pressure free jets, AIAA Paper 2021-0550, *AIAA Scitech 2021 Forum*, Nashville, TN. [paper](https://doi.org/10.2514/6.2021-0550){: .btn .btn--primary .btn--small}
 
 * N. Sharan, P. T. Brady and D. Livescu. Stable and conservative boundary treatment for difference methods, with application to cut-cell discretizations, AIAA Paper 2020-0807, *AIAA Scitech 2020 Forum*, Orlando, FL. [paper](https://doi.org/10.2514/6.2020-0807){: .btn .btn--primary .btn--small}
 
