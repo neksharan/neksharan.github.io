@@ -1,8 +1,6 @@
 ---
 layout: page
 title: MixSIAR
-bigimg:
-  - "/img/big-img/mixing_models.jpg"
 ---
 
 MixSIAR is an open-source R package ([CRAN](https://cran.r-project.org/package=MixSIAR), [GitHub](https://github.com/brianstock/MixSIAR)) that helps you create and run Bayesian mixing models to analyze biotracer data (i.e. stable isotopes, fatty acids), following the MixSIAR model framework.
