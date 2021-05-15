@@ -112,6 +112,7 @@ img {
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
+  font-size: 22px;
   background: {{ site.navbar-col }};
   {% endif %}
   {% if site.navbar-img %}
