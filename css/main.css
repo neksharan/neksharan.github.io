@@ -124,12 +124,14 @@ img {
   /* text-transform: uppercase; */
   font-size: 20px;
   letter-spacing: 1px;
+  font-weight: 400;
   color: #404040;
 }
 
 .navbar-custom .navbar-brand {
-  font-size: 21px;
+  font-size: 22px;
   font-weight: 600;
+  color: #404040;
 }
 /*.navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
