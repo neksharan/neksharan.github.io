@@ -453,6 +453,14 @@ footer .theme-by {
 }
 /* --- Post and page headers --- */
 
+@-ms-viewport {
+  width: device-width;
+}
+
+body {
+  -ms-overflow-style: scrollbar;
+}
+
 .intro-header {
   margin: 80px 0 20px;
   position: relative;
