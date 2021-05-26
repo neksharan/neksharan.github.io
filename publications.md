@@ -1,11 +1,12 @@
 ---
+title: ""
 permalink: /publications/
 classes: wide
 ---
 
-## Journal articles
+### Journal articles
 
-* N. Sharan and J. R. Bellan. Investigation of high-pressure turbulent jets using direct numerical simulation. *Journal of Fluid Mechanics* (Under review). <span class="fs-3">[preprint](/assets/files/highP_jets/Highpjets_preprint.pdf){: .btn}</span>
+* N. Sharan and J. R. Bellan. Investigation of high-pressure turbulent jets using direct numerical simulation. *Journal of Fluid Mechanics* (Under review). [preprint](/assets/files/highP_jets/Highpjets_preprint.pdf){: .btn}
 
 * N. Sharan, P. T. Brady and D. Livescu. High-order time-stable strong boundary conditions in finite-difference schemes solving hyperbolic systems. *Computers & Fluids* (Under review). [preprint](/assets/files/strongBC/Strong_BC.pdf){:target="_blank"}{: .btn .btn--primary .btn--small}
 
@@ -16,7 +17,7 @@ classes: wide
 * N. Sharan, C. Pantano and D. J. Bodony. Time-stable overset grid method for hyperbolic problems using summation-by-parts operator. *Journal of Computational Physics*, 361 (2018): 199-230. [paper](https://doi.org/10.1016/j.jcp.2018.05.005){:target="_blank"}{: .btn .btn--primary .btn--small}
 
 
-## Conference papers
+### Conference papers
 
 * N. Sharan, P. T. Brady and D. Livescu. Finite-difference Cartesian cut-cell method for hyperbolic systems, AIAA Paper 2021-0746, *AIAA Scitech 2021 Forum*, Nashville, TN. [paper](https://doi.org/10.2514/6.2021-0746){: .btn .btn--primary .btn--small}
 
