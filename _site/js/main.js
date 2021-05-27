@@ -79,7 +79,8 @@ var main = {
 	  var src = imgInfo.src;
 	  var desc = imgInfo.desc;
   	  main.setImg(src, desc);
-  	
+	  current++;
+			  	
 	  // For better UX, prefetch the next image so that it will already be loaded when we want to show it
   	  var getNextImg = function(current) {
 	    var imgInfo = main.getImgInfo(current);
