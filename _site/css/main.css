@@ -102,7 +102,7 @@ img {
   background: #000000;
   /*background: #F5F5F5;*/
   /*background: #74CEF7;*/
-  border-bottom: 1px solid #EAEAEA;
+  border-bottom: 1px solid #000000; /* #EAEAEA; */
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
   
@@ -530,7 +530,8 @@ body {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
-    height: 600px;
+    height: 80vh;
+    /* height: 600px; */
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {

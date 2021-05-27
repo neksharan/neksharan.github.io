@@ -74,14 +74,15 @@ var main = {
 
           // 2fc73a3a967e97599c9763d05e564189
 	  // set an initial image
-	  var imgInfo = main.getImgInfo();
+      var current = 1;
+	  var imgInfo = main.getImgInfo(current);
 	  var src = imgInfo.src;
 	  var desc = imgInfo.desc;
   	  main.setImg(src, desc);
   	
 	  // For better UX, prefetch the next image so that it will already be loaded when we want to show it
-  	  var getNextImg = function() {
-	    var imgInfo = main.getImgInfo();
+  	  var getNextImg = function(current) {
+	    var imgInfo = main.getImgInfo(current);
 	    var src = imgInfo.src;
 	    var desc = imgInfo.desc;		  
 	    
@@ -99,21 +100,25 @@ var main = {
 		  setTimeout(function() {
 		    main.setImg(src, desc);
 			img.remove();
-  			getNextImg();
+			current++;
+			if (current > main.numImgs)
+				current = 1;
+  			getNextImg(current);
 		  }, 1000); 
   		  //});		
-  		}, 6000);
+  		}, 5000);	// Reduce this to speed up big-img transition
   	  };
 	  
 	  // If there are multiple images, cycle through them
 	  if (main.numImgs > 1) {
-  	    getNextImg();
+  	    getNextImg(current);
 	  }
     }
   },
   
-  getImgInfo : function() {
-  	var randNum = Math.floor((Math.random() * main.numImgs) + 1);
+  getImgInfo : function(nImg) {
+  	//var randNum = Math.floor((Math.random() * main.numImgs) + 1);
+  	var randNum = nImg;
     var src = main.bigImgEl.attr("data-img-src-" + randNum);
 	var desc = main.bigImgEl.attr("data-img-desc-" + randNum);
 	
