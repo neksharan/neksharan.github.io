@@ -18,7 +18,7 @@ classes: wide
 
 ### Overset grid applications
 
-<center><iframe style="width:90%; height:75.75vh; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/Movie_CylVort1.mp4" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe style="width:90%; height:75.8vh; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/Movie_CylVort1.mp4" frameborder="0" allowfullscreen></iframe></center>
 
 ---
 ## Turbulent jet mixing
