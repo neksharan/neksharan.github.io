@@ -6,19 +6,19 @@ classes: wide
 ---
 ### Q criterion isosurfaces in a turbulent flat-plate boundary layer
 
-<iframe style="width:100%; height:559.49995px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/Movie_Qcrit_fast2.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%; height:75.25vh; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/Movie_Qcrit_fast2.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Temporal shear layer mixed-fluid isosurfaces
 
-<iframe style="width:100%; height:625.4999px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/IC2_isosurface_w_pdf_n_var_vslow_new4.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%; height:604.4999px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/IC2_isosurface_w_pdf_n_var_vslow_new4.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Turbulent jet mixed-fluid contours
 
-<iframe style="width:100%; height:625.4999px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/atmp_contourf_100images_slow8.mp4" frameborder="0" allowfullscreen></iframe>
+<center><iframe style="width:75%; height:794.6999px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/atmp_contourf_100images_slow8.mp4" frameborder="0" allowfullscreen></iframe></center>
 
 ### Overset grid applications
 
-<iframe style="width:100%; height:517.4999px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/Movie_CylVort1.mp4" frameborder="0" allowfullscreen></iframe>
+<center><iframe style="width:90%; height:544.4999px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/Movie_CylVort1.mp4" frameborder="0" allowfullscreen></iframe></center>
 
 ---
 ## Turbulent jet mixing

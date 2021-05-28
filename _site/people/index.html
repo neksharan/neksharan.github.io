@@ -56,12 +56,7 @@
   
 
    
-  <meta property="og:description" content="### Faculty
-
-### Group Members
-
- **We are  looking for PhD, Masters and Undergraduate students to join the group. Please email [Nek Sharan](nzs0089@auburn.edu) for prospective positions.**
-">
+  <meta property="og:description" content="## Faculty {% assign number_printed = 0 %} {% for member in site.data.faculty %} {% assign even_odd = number_printed | modulo: 2 %} {% if even_odd == 0 %} {% endif %} {{ member.name }} {{ member.info }} {% if member.number_educ == 1 %} {{ member.education1 }} {% endif %}...">
   
 
 
@@ -85,12 +80,7 @@
   
 
   
-  <meta name="twitter:description" content="### Faculty
-
-### Group Members
-
- **We are  looking for PhD, Masters and Undergraduate students to join the group. Please email [Nek Sharan](nzs0089@auburn.edu) for prospective positions.**
-">
+  <meta name="twitter:description" content="## Faculty {% assign number_printed = 0 %} {% for member in site.data.faculty %} {% assign even_odd = number_printed | modulo: 2 %} {% if even_odd == 0 %} {% endif %} {{ member.name }} {{ member.info }} {% if member.number_educ == 1 %} {{ member.education1 }} {% endif %}...">
   
 
   
@@ -202,11 +192,75 @@
 
 <div role="main" class="container">
   <div id="gridid" class="col-sm-12">
-  <h3 id="faculty">Faculty</h3>
+  <h2 id="faculty">Faculty</h2>
 
-<h3 id="group-members">Group Members</h3>
+<div class="row">
 
-<p><strong>We are  looking for PhD, Masters and Undergraduate students to join the group. Please email <a href="nzs0089@auburn.edu">Nek Sharan</a> for prospective positions.</strong></p>
+<style>
+.button {
+  background-color: #9a9b9c; /* Gray */
+  border: none;
+  color: white;
+  padding-top: 4px;
+  padding-right: 10px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
+</style>
+
+  <img src="http://localhost:4000/images/teampic/NekS.jpg" class="img-responsive" width="15%" style="float: left" />
+  <h3>Nek Sharan</h3>
+  <i>Assistant Professor, Department of Aerospace Engineering, Auburn University (Starting Fall 2021) </i><!--<br>email: <nzs0089@auburn.edu></i> -->
+  <ul style="overflow: hidden; margin-top:10px;">
+
+  
+
+  
+  <li> Ph.D., University of Illinois at Urbana-Champaign (2016) </li>
+  <li> M.Tech. &amp; B.Tech., Indian Institute of Technology Bombay (2011) </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+
+<a href="mailto: nzs0089@auburn.edu"> <button class="button button3"> Email </button> </a> 
+<a href="/pdf/Nek-cv-short.pdf" target="_blank"> <button class="button button3"> CV </button> </a>
+
+
+
+
+
+
+
+
+
+</div>
+
+<hr />
+
+<h2 id="group-members">Group Members</h2>
+
+<p><strong>We are  looking for PhD, Masters and undergraduate students to join the group. Please email <a href="mailto:nzs0089@auburn.edu">Nek Sharan</a> for prospective positions.</strong></p>
 
 </div>
 
