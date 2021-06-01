@@ -1,11 +1,11 @@
 ---
-title: ""
-layout: gridlay
+title: "Research"
+layout: page_research
 excerpt: "Computational Fluid Group -- Research."
 sitemap: false
 permalink: /research/
 bigimg:
-  - "/img/CylVort_LineCont1_cropped_copy1.png"
+  - "/images/respic/CylVort_ResearchWebpage_copy.png"
 ---
 
 {% assign number_printed = 0 %}
