@@ -1,6 +1,6 @@
 - title: "High-order methods/solvers to handle complex domains with structured grids"
   image: cutcell_dimSplit_4_w_nodes.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: High-order schemes provide superior resolution and computational efficiency when implemented on structured grids, and hence overset and immersed-boundary (cut-cell) approaches are widely used to handle complicated geometries in fluid-flow simulations. We construct provably stable high-order overset and cut-cell methods that do not require ad hoc stabilization. These methods are dimensionally split and easy to incorporate in an existing solver.
   authors:
   link1:
     url: https://doi.org/10.2514/6.2021-0746
@@ -13,7 +13,7 @@
 
 - title: "Turbulence and combustion in high-pressure conditions"
   image: thermo_statePlane_copy.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: Fuel injection and turbulent mixing at high pressure determines combustion in diesel, gas turbine and liquid rocket engines, for example. The thermodynamic condition in those engines often exceeds the critical values of fuel and oxidizer, and as a result the mixture is non-ideal. Detailed turbulence statistics at these high-pressure conditions, which may allow robust ignition and flame predictions, are difficult to measure experimentally and, as of now, remain unavailable. We perform direct numerical simulations (DNS) to accurately determine those statistics.
   authors:
   link1:
     url: https://arxiv.org/pdf/2009.12926.pdf
@@ -27,7 +27,7 @@
 - title: "Large-eddy simulation (LES) modeling to estimate turbulent mixing"
   image: 1dSpectra_LES256_vs_DNS.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+  authors:
   link1:
     url: https://doi.org/10.1017/jfm.2019.591
     display: J. of Fluid Mech. 877, 35-81
