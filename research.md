@@ -18,7 +18,8 @@ bigimg:
   <pubtit>{{ publi.title }}</pubtit>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ publi.link1.url }}" target="_blank">{{ publi.link1.display }}</a></strong></p>
+  <p style="margin-top:-1.5em"><strong><a href="{{ publi.link2.url }}" target="_blank">{{ publi.link2.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
 </div>
@@ -29,3 +30,5 @@ bigimg:
 {% endfor %}
 
 <p> &nbsp; </p>
+
+<b> <font size="+2"> and more ... </font> </b>

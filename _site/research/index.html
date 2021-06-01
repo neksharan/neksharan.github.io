@@ -56,7 +56,7 @@
   
 
    
-  <meta property="og:description" content="{% assign number_printed = 0 %} {% for publi in site.data.publist %} {% if publi.highlight == 1 %} {{ publi.title }} {{ publi.description }} {{ publi.authors }} {{ publi.link.display }} {{ publi.news1 }} {{ publi.news2 }} {% assign number_printed = number_printed | plus: 1 %} {% endif %} {% endfor...">
+  <meta property="og:description" content="{% assign number_printed = 0 %} {% for publi in site.data.publist %} {% if publi.highlight == 1 %} {{ publi.title }} {{ publi.description }} {{ publi.authors }} {{ publi.link1.display }} {{ publi.link2.display }} {{ publi.news1 }} {{ publi.news2 }} {% assign number_printed = number_printed | plus: 1 %} {% endif...">
   
 
 
@@ -80,7 +80,7 @@
   
 
   
-  <meta name="twitter:description" content="{% assign number_printed = 0 %} {% for publi in site.data.publist %} {% if publi.highlight == 1 %} {{ publi.title }} {{ publi.description }} {{ publi.authors }} {{ publi.link.display }} {{ publi.news1 }} {{ publi.news2 }} {% assign number_printed = number_printed | plus: 1 %} {% endif %} {% endfor...">
+  <meta name="twitter:description" content="{% assign number_printed = 0 %} {% for publi in site.data.publist %} {% if publi.highlight == 1 %} {{ publi.title }} {{ publi.description }} {{ publi.authors }} {{ publi.link1.display }} {{ publi.link2.display }} {{ publi.news1 }} {{ publi.news2 }} {% assign number_printed = number_printed | plus: 1 %} {% endif...">
   
 
   
@@ -244,39 +244,44 @@
 
 <div class="container" role="main">
   <div class="row">
-    <div class="col-sm-12">
+    <div id="gridid" class="col-sm-12">
       
 <div class="well">
-  <img src="http://localhost:4000/images/respic/TBG_SL.png" class="img-responsive" width="30%" style="float: left" />
+  <img src="http://localhost:4000/images/respic/cutcell_dimSplit_4_w_nodes.png" class="img-responsive" width="30%" style="float: left" />
   <pubtit>High-order methods/solvers to handle complex domains with structured grids</pubtit>
   <p>Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.</p>
-  <p><em>T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan</em></p>
-  <p><strong><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153">Phys. Rev. Research 3, 013153</a></strong></p>
+  <p><em></em></p>
+  <p><strong><a href="https://doi.org/10.2514/6.2021-0746" target="_blank">AIAA Paper 2021-0746</a></strong></p>
+  <p style="margin-top:-1.5em"><strong><a href="https://doi.org/10.1016/j.jcp.2018.01.049" target="_blank">J. of Comp. Physics 361, 199-230</a></strong></p>
   <p class="text-danger"><strong> </strong></p>
   <p> </p>
 </div>
 
 <div class="well">
-  <img src="http://localhost:4000/images/respic/TBG_SL.png" class="img-responsive" width="30%" style="float: left" />
+  <img src="http://localhost:4000/images/respic/thermo_statePlane_copy.png" class="img-responsive" width="30%" style="float: left" />
   <pubtit>Turbulence and combustion in high-pressure conditions</pubtit>
   <p>Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.</p>
-  <p><em>T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan</em></p>
-  <p><strong><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153">Phys. Rev. Research 3, 013153</a></strong></p>
+  <p><em></em></p>
+  <p><strong><a href="https://arxiv.org/pdf/2009.12926.pdf" target="_blank">arXiv:2009.12926</a></strong></p>
+  <p style="margin-top:-1.5em"><strong><a href="https://doi.org/10.2514/6.2021-0550" target="_blank">AIAA Paper 2021-0550</a></strong></p>
   <p class="text-danger"><strong> </strong></p>
   <p> </p>
 </div>
 
 <div class="well">
-  <img src="http://localhost:4000/images/respic/TiNHigh.png" class="img-responsive" width="30%" style="float: left" />
+  <img src="http://localhost:4000/images/respic/1dSpectra_LES256_vs_DNS.png" class="img-responsive" width="30%" style="float: left" />
   <pubtit>Large-eddy simulation (LES) modeling to estimate turbulent mixing</pubtit>
   <p>We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.</p>
   <p><em>KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan</em></p>
-  <p><strong><a href="https://arxiv.org/abs/2101.08535">arXiv:2101.08535 (2021)</a></strong></p>
+  <p><strong><a href="https://doi.org/10.1017/jfm.2019.591" target="_blank">J. of Fluid Mech. 877, 35-81</a></strong></p>
+  <p style="margin-top:-1.5em"><strong><a href="https://doi.org/10.1016/j.jcp.2018.05.005" target="_blank">J. of Comp. Physics 369, 148-172</a></strong></p>
   <p class="text-danger"><strong> </strong></p>
   <p> </p>
 </div>
 
 <p> &nbsp; </p>
+
+<p><b> <font size="+2"> and more ... </font> </b></p>
 
 	    
     </div>
