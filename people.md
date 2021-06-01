@@ -79,7 +79,7 @@ permalink: /people/
 
   </ul>
 
-<a href = "mailto: nzs0089@auburn.edu"> <button class="button button3"> Email </button> </a> 
+<a href = "mailto: nsharan@auburn.edu"> <button class="button button3"> Email </button> </a> 
 <a href="/pdf/nek-cv-short.pdf" target="_blank"> <button class="button button3"> CV </button> </a>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -100,4 +100,4 @@ permalink: /people/
 
 ## Group Members
 
- **We are  looking for PhD, Masters and undergraduate students to join the group. Please email [Nek Sharan](mailto:nzs0089@auburn.edu) for prospective positions.**
+ **We are  looking for PhD, Masters and undergraduate students to join the group. Please email [Nek Sharan](mailto:nsharan@auburn.edu) for prospective positions.**
