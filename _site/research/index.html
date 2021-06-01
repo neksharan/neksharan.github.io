@@ -6,12 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>About me</title>
+  <title></title>
 
   <meta name="author" content="Nek Sharan" />
 
-  
-  <meta name="description" content="Why you'd want to go on a date with me">
   
 
   <link rel="alternate" type="application/rss+xml" title="Computational Fluids Group - Computational Fluids Group" href="/feed.xml" />
@@ -54,19 +52,19 @@
   
 
   
-  <meta property="og:title" content="About me" />
+  <meta property="og:title" content="" />
   
 
    
-  <meta property="og:description" content="Why you'd want to go on a date with me">
+  <meta property="og:description" content="{% assign number_printed = 0 %} {% for publi in site.data.publist %} {% if publi.highlight == 1 %} {{ publi.title }} {{ publi.description }} {{ publi.authors }} {{ publi.link.display }} {{ publi.news1 }} {{ publi.news2 }} {% assign number_printed = number_printed | plus: 1 %} {% endif %} {% endfor...">
   
 
 
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://localhost:4000/aboutme/" />
-  <link rel="canonical" href="http://localhost:4000/aboutme/" />
+  <meta property="og:url" content="http://localhost:4000/research/" />
+  <link rel="canonical" href="http://localhost:4000/research/" />
   
 
   
@@ -78,11 +76,11 @@
   <meta name="twitter:creator" content="@" />
 
   
-  <meta name="twitter:title" content="About me" />
+  <meta name="twitter:title" content="" />
   
 
   
-  <meta name="twitter:description" content="Why you'd want to go on a date with me">
+  <meta name="twitter:description" content="{% assign number_printed = 0 %} {% for publi in site.data.publist %} {% if publi.highlight == 1 %} {{ publi.title }} {{ publi.description }} {{ publi.authors }} {{ publi.link.display }} {{ publi.news1 }} {{ publi.news2 }} {% assign number_printed = number_printed | plus: 1 %} {% endif %} {% endfor...">
   
 
   
@@ -190,59 +188,46 @@
 </nav>
 
 
-    <!-- TODO this file has become a mess, refactor it -->
+    <div class="intro-header"></div>
 
-
-
-
-
-<header class="header-section ">
-
-<div class="intro-header no-img">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1>About me</h1>
-		  
-		    
-            <hr class="small">
-            <span class="page-subheading">Why you'd want to go on a date with me</span>
-			
-		  
-		  
-		  
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</header>
-
-
-
-
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <p>My name is Inigo Montoya. I have the following qualities:</p>
-
-<ul>
-  <li>I rock a great mustache</li>
-  <li>I’m extremely loyal to my family</li>
-</ul>
-
-<p>What else do you need?</p>
-
-<h3 id="my-history">my history</h3>
-
-<p>To be honest, I’m having some trouble remembering right now, so why don’t you just watch <a href="http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29">my movie</a> and it will answer <strong>all</strong> your questions.</p>
-
-	    
-    </div>
-  </div>
+<div role="main" class="container">
+  <div id="gridid" class="col-sm-12">
+  
+<div class="well">
+  <img src="http://localhost:4000/images/respic/TBG_SL.png" class="img-responsive" width="30%" style="float: left" />
+  <pubtit>High-order methods/solvers to handle complex domains with structured grids</pubtit>
+  <p>Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.</p>
+  <p><em>T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan</em></p>
+  <p><strong><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153">Phys. Rev. Research 3, 013153</a></strong></p>
+  <p class="text-danger"><strong> </strong></p>
+  <p> </p>
 </div>
 
+<div class="well">
+  <img src="http://localhost:4000/images/respic/TBG_SL.png" class="img-responsive" width="30%" style="float: left" />
+  <pubtit>Turbulence and combustion in high-pressure conditions</pubtit>
+  <p>Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.</p>
+  <p><em>T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan</em></p>
+  <p><strong><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153">Phys. Rev. Research 3, 013153</a></strong></p>
+  <p class="text-danger"><strong> </strong></p>
+  <p> </p>
+</div>
+
+<div class="well">
+  <img src="http://localhost:4000/images/respic/TiNHigh.png" class="img-responsive" width="30%" style="float: left" />
+  <pubtit>Large-eddy simulation (LES) modeling to estimate turbulent mixing</pubtit>
+  <p>We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.</p>
+  <p><em>KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan</em></p>
+  <p><strong><a href="https://arxiv.org/abs/2101.08535">arXiv:2101.08535 (2021)</a></strong></p>
+  <p class="text-danger"><strong> </strong></p>
+  <p> </p>
+</div>
+
+<p> &nbsp; </p>
+
+</div>
+
+</div>
 
     <footer>
   <div class="container beautiful-jekyll-footer">

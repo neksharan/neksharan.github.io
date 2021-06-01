@@ -24,7 +24,7 @@ description: Computational Fluids Group
 # List of links in the navigation bar
 navbar-links:
   Home: "index.html"
-  Research: ""
+  Research: "research"
   Publications: "publications"
   People: "people"
   Gallery: "gallery"

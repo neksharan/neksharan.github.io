@@ -80,7 +80,7 @@ permalink: /people/
   </ul>
 
 <a href = "mailto: nzs0089@auburn.edu"> <button class="button button3"> Email </button> </a> 
-<a href="/pdf/Nek-cv-short.pdf" target="_blank"> <button class="button button3"> CV </button> </a>
+<a href="/pdf/nek-cv-short.pdf" target="_blank"> <button class="button button3"> CV </button> </a>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
