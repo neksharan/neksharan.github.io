@@ -6,9 +6,9 @@ classes: wide
 
 ### Journal articles
 
-* N. Sharan and J. R. Bellan. Investigation of high-pressure turbulent jets using direct numerical simulation. *Journal of Fluid Mechanics* (In press). [preprint](http://arxiv.org/abs/2009.12926){:target="_blank"}{: .btn}
-
 * N. Sharan, P. T. Brady and D. Livescu. High-order time-stable strong boundary conditions in finite-difference schemes solving hyperbolic systems. (Under review). [preprint](/assets/files/strongBC/Strong_BC.pdf){:target="_blank"}{: .btn .btn--primary .btn--small}
+
+* N. Sharan and J. R. Bellan. Investigation of high-pressure turbulent jets using direct numerical simulation. *Journal of Fluid Mechanics* 922 (2021): A24. [paper](https://doi.org/10.1017/jfm.2021.524){:target="_blank"}{: .btn}
 
 * N. Sharan, G. Matheou and P. E. Dimotakis. Turbulent shear-layer mixing: initial conditions, and direct-numerical and large-eddy simulations. *Journal of Fluid Mechanics*, 877 (2019): 35-81. [paper](https://doi.org/10.1017/jfm.2019.591){:target="_blank"}{: .btn .btn--primary .btn--small}
 
