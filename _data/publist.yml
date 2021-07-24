@@ -16,8 +16,8 @@
   description: Fuel injection and turbulent mixing at high pressure determines combustion in diesel, gas turbine and liquid rocket engines, for example. The thermodynamic condition in those engines often exceeds the critical values of fuel and oxidizer, and as a result the mixture is non-ideal. Detailed turbulence statistics at these high-pressure conditions, which may allow robust ignition and flame predictions, are difficult to measure experimentally and, as of now, remain unavailable. We perform direct numerical simulations (DNS) to accurately determine those statistics.
   authors:
   link1:
-    url: https://arxiv.org/pdf/2009.12926.pdf
-    display: arXiv:2009.12926
+    url: https://doi.org/10.1017/jfm.2021.524
+    display: J. of Fluid Mech. 922, A24
   link2:
     url: https://doi.org/10.2514/6.2021-0550
     display: AIAA Paper 2021-0550
