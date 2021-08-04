@@ -19,13 +19,15 @@ classes: wide
 
 ### Conference papers
 
-* N. Sharan, P. T. Brady and D. Livescu. Finite-difference Cartesian cut-cell method for hyperbolic systems, AIAA Paper 2021-0746, *AIAA Scitech 2021 Forum* (Virtual). [paper](https://doi.org/10.2514/6.2021-0746){: .btn .btn--primary .btn--small}
+* N. Sharan, M. Natarajan, P. T. Brady and D. Livescu. A deep learning framework for derivation of time-stable difference schemes, AIAA 2021-2727, *AIAA Aviation 2021 Forum* (Virtual). [paper](https://doi.org/10.2514/6.2021-2727){: .btn .btn--primary .btn--small}
 
 * N. Sharan and J. R. Bellan. Direct numerical simulation of high-pressure free jets, AIAA Paper 2021-0550, *AIAA Scitech 2021 Forum* (Virtual). [paper](https://doi.org/10.2514/6.2021-0550){: .btn .btn--primary .btn--small}
 
-* N. Sharan, P. T. Brady and D. Livescu. Stable and conservative boundary treatment for difference methods, with application to cut-cell discretizations, AIAA Paper 2020-0807, *AIAA Scitech 2020 Forum*, Orlando, FL. [paper](https://doi.org/10.2514/6.2020-0807){: .btn .btn--primary .btn--small}
+* N. Sharan, P. T. Brady and D. Livescu. Finite-difference Cartesian cut-cell method for hyperbolic systems, AIAA Paper 2021-0746, *AIAA Scitech 2021 Forum* (Virtual). [paper](https://doi.org/10.2514/6.2021-0746){: .btn .btn--primary .btn--small}
 
 * N. Sharan and J. R. Bellan. Turbulent mixing in supercritical jets: effect of compressibility factor and inflow condition, AIAA Paper 2020-1156, *AIAA Scitech 2020 Forum*, Orlando, FL. [paper](https://doi.org/10.2514/6.2020-1156){: .btn .btn--primary .btn--small}
+
+* N. Sharan, P. T. Brady and D. Livescu. Stable and conservative boundary treatment for difference methods, with application to cut-cell discretizations, AIAA Paper 2020-0807, *AIAA Scitech 2020 Forum*, Orlando, FL. [paper](https://doi.org/10.2514/6.2020-0807){: .btn .btn--primary .btn--small}
 
 * N. Sharan and J. R. Bellan. Numerical aspects for physically accurate Direct Numerical Simulations of turbulent jets, AIAA Paper 2019-2011, *AIAA Scitech 2019 Forum*, San Diego, CA. [paper](https://doi.org/10.2514/6.2019-2011){: .btn .btn--primary .btn--small}
 
