@@ -100,4 +100,4 @@ permalink: /people/
 
 ## Group Members
 
- **We are  looking for PhD, Masters and undergraduate students to join the group. Please email [Nek Sharan](mailto:nsharan@auburn.edu) for prospective positions.**
+ **We are actively looking for PhD, Masters and undergraduate students to join the group. Please email [Nek Sharan](mailto:nsharan@auburn.edu) for prospective positions.**
