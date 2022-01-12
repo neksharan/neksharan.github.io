@@ -13,7 +13,7 @@
 
 - title: "Turbulence and mixing in high-pressure conditions"
   image: thermo_statePlane_copy.png
-  description: Spray injection and turbulent mixing at high pressure determines efficiency of and harmful emissions from various engines, for example. The thermodynamic condition in those engines often exceeds the critical values of individual species, and as a result the mixture is non-ideal. Detailed turbulence statistics at these conditions, which may allow robust ignition and flame predictions, are difficult to measure experimentally and, as of now, remain unavailable. We perform direct numerical simulations (DNS) to accurately determine those statistics.
+  description: Spray injection and turbulent mixing at high pressure determines efficiency and emissions from various engines, for example. The thermodynamic condition in automotive/aerospace engines often exceeds the critical values of individual species, and as a result the mixture is non-ideal. Detailed turbulence statistics at these conditions, which may allow robust ignition and flame predictions, are difficult to measure experimentally and, as of now, remain unavailable. We perform direct numerical simulations (DNS) to accurately determine those statistics.
   authors:
   link1:
     url: https://doi.org/10.1017/jfm.2021.524
