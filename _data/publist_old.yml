@@ -1,0 +1,37 @@
+- title: "High-order methods/solvers to handle complex domains with structured grids"
+  image: cutcell_dimSplit_4_w_nodes.png
+  description: High-order schemes provide superior resolution and computational efficiency when implemented on structured grids, and hence overset and immersed-boundary (cut-cell) approaches are widely used for fluid-flow simulations over complicated geometries. We construct provably stable high-order overset and cut-cell methods that do not require ad hoc stabilization. The developed methods are dimensionally split and easy to incorporate in an existing solver.
+  authors:
+  link1:
+    url: https://doi.org/10.2514/6.2021-0746
+    display:  AIAA Paper 2021-0746
+  link2:
+    url: https://doi.org/10.1016/j.jcp.2018.01.049
+    display:  J. of Comp. Physics 361, 199-230
+  highlight: 1
+  news2:
+
+- title: "Turbulence and combustion in high-pressure conditions"
+  image: thermo_statePlane_copy.png
+  description: Fuel injection and turbulent mixing at high pressure determines combustion in diesel, gas turbine and liquid rocket engines, for example. The thermodynamic condition in those engines often exceeds the critical values of fuel and oxidizer, and as a result the mixture is non-ideal. Detailed turbulence statistics at these high-pressure conditions, which may allow robust ignition and flame predictions, are difficult to measure experimentally and, as of now, remain unavailable. We perform direct numerical simulations (DNS) to accurately determine those statistics.
+  authors:
+  link1:
+    url: https://doi.org/10.1017/jfm.2021.524
+    display: J. of Fluid Mech. 922, A24
+  link2:
+    url: https://doi.org/10.2514/6.2021-0550
+    display: AIAA Paper 2021-0550
+  highlight: 1
+  news2:
+
+- title: "Accurate mixing estimates from large-eddy simulation (LES)"
+  image: 1dSpectra_LES256_vs_DNS.png
+  description: Direct numerical simulation (DNS) of turbulent flows at practical Reynolds numbers is computationally intractable for the foreseeable future because of the wide range of spatial and temporal scales. LES alleviates the computational cost by modeling the effects of small-scale motions on large scales. However, inaccuracies in small-scale fluctuation estimates due to subgrid-scale (SGS) modeling and numerical discretization errors can compromise the mixing predictions. We examine mixing sensitivity to the choices of SGS model and numerical discretization, and develop approaches for accurate resolved and total scalar variance and dissipation predictions.
+  authors:
+  link1:
+    url: https://doi.org/10.1017/jfm.2019.591
+    display: J. of Fluid Mech. 877, 35-81
+  link2:
+    url: https://doi.org/10.1016/j.jcp.2018.05.005
+    display:  J. of Comp. Physics 369, 148-172
+  highlight: 1
