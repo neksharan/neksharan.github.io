@@ -6,9 +6,9 @@ classes: wide
 
 ### Journal articles
 
-* N. Sharan, P. T. Brady and D. Livescu. High-order dimensionally-split Cartesian embedded boundary method for non-dissipative schemes. *Journal of Computational Physics* (2022).[paper](https://authors.elsevier.com/a/1fBCA_W0q-3ZJ){:target="_blank"}{: .btn .btn--primary .btn--small}
+* N. Sharan, P. T. Brady and D. Livescu. High-order dimensionally-split Cartesian embedded boundary method for non-dissipative schemes. *Journal of Computational Physics* 464 (2022): 111341.[paper](https://doi.org/10.1016/j.jcp.2022.111341){:target="_blank"}{: .btn .btn--primary .btn--small}
 
-* N. Sharan, P. T. Brady and D. Livescu. Time stability of strong boundary conditions in finite-difference schemes for hyperbolic systems. *SIAM Journal on Numerical Analysis* (2022). [preprint](/assets/files/strongBC/Strong_BC.pdf){:target="_blank"}{: .btn .btn--primary .btn--small}
+* N. Sharan, P. T. Brady and D. Livescu. Time stability of strong boundary conditions in finite-difference schemes for hyperbolic systems. *SIAM Journal on Numerical Analysis*, 60(3) (2022): 1331-1362. [paper](https://doi.org/10.1137/21M1419957){:target="_blank"}{: .btn .btn--primary .btn--small}
 
 * N. Sharan and J. R. Bellan. Investigation of high-pressure turbulent jets using direct numerical simulation. *Journal of Fluid Mechanics*, 922 (2021): A24. [paper](https://doi.org/10.1017/jfm.2021.524){:target="_blank"}{: .btn}
 
