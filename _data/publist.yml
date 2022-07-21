@@ -3,8 +3,8 @@
   description: High-order schemes provide superior resolution and computational efficiency when implemented on structured grids, and hence overset and immersed-boundary (cut-cell) approaches are widely used for fluid-flow simulations over complicated geometries. We construct provably stable high-order overset and cut-cell methods that do not require ad hoc stabilization. The developed methods are dimensionally split and easy to incorporate in an existing solver.
   authors:
   link1:
-    url: https://doi.org/10.2514/6.2021-0746
-    display:  AIAA Paper 2021-0746
+    url: https://doi.org/10.1016/j.jcp.2022.111341
+    display:  J. of Comp. Physics 464, 111341
   link2:
     url: https://doi.org/10.1016/j.jcp.2018.01.049
     display:  J. of Comp. Physics 361, 199-230
