@@ -7,11 +7,12 @@ bigimg:
   - "/img/miflc_masthead.jpg"
 ---
 
-## Spring 2022: AERO 3110 Aerodynamics I
+## Fall 2022: AERO 4970/7970 Computational Fluid Dynamics
 
     For course material and discussions visit [Canvas](https://auburn.instructure.com/){:target="_blank"}.
 
 <br />
+### Spring 2022: AERO 3110 Aerodynamics I
   
 ### Fall 2021: AERO 4970/7970 Computational Fluid Dynamics
 
