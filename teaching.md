@@ -8,7 +8,8 @@ bigimg:
 ---
 
 ## Fall 2022: AERO 4970/7970 Computational Fluid Dynamics
-	[<font size="+2"> Syllabus </font>](/pdf/Syllabus-fall2022-CFD.pdf){:target="_blank"}{: .btn .btn--primary .btn--small}
+
+[<font size="+2"> Syllabus </font>](/pdf/Syllabus-fall2022-CFD.pdf){:target="_blank"}{: .btn .btn--primary .btn--small}
 
     For course material and discussions visit [Canvas](https://auburn.instructure.com/){:target="_blank"}.
 
