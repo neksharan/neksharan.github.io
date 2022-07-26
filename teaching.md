@@ -16,7 +16,7 @@ bigimg:
 <br />
 ### Spring 2022: AERO 3110 Aerodynamics I
   
-### Fall 2021: AERO 4970/7970 Computational Fluid Dynamics
+### Fall 2021:         AERO 4970/7970 Computational Fluid Dynamics
 
 <br />
 <br />
