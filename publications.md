@@ -21,7 +21,7 @@ classes: wide
 
 ### Conference papers
 
-* N. Sharan and J. R. Bellan. Harmonic Decomposition Models of Periodically-Forced Fluid Flows, AIAA Paper 2022-3841, *AIAA Aviation 2022 Forum*, Chicago, IL. [paper](https://doi.org/10.2514/6.2022-3841){:target="_blank"}{: .btn .btn--primary .btn--small}
+* U. Saetti and N. Sharan. Harmonic Decomposition Models of Periodically-Forced Fluid Flows, AIAA Paper 2022-3841, *AIAA Aviation 2022 Forum*, Chicago, IL. [paper](https://doi.org/10.2514/6.2022-3841){:target="_blank"}{: .btn .btn--primary .btn--small}
 
 * N. Sharan and J. R. Bellan. High-pressure two-species mixing in turbulent free jets, AIAA Paper 2022-0482, *AIAA Scitech 2022 Forum*, San Diego, CA. [paper](https://doi.org/10.2514/6.2022-0482){:target="_blank"}{: .btn .btn--primary .btn--small}
 
