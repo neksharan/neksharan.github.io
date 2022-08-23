@@ -99,5 +99,18 @@ permalink: /people/
 ---
 
 ## Group Members
+<p>   </p>
+#### Graduate students
+
+Adithya Mayya
+
+Thiraj Wegala
+<br/><br/>
+
+#### Undergraduate students
+
+Henry McCormick
+<br/>
+<br/>
 
  **We are actively looking for PhD, Masters and undergraduate students to join the group. Please email [Nek Sharan](mailto:nsharan@auburn.edu) for prospective positions.**
