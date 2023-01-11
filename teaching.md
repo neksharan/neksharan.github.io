@@ -9,8 +9,8 @@ bigimg:
 
 ## Spring 2023: AERO 3110 Aerodynamics I
 
-[<font size="+2"> Syllabus </font>](/pdf/Syllabus-fall2022-CFD.pdf){:target="_blank"}{: .btn .btn--primary .btn--small}
-
+<!---[<font size="+2"> Syllabus </font>](/pdf/Syllabus-fall2022-CFD.pdf){:target="_blank"}{: .btn .btn--primary .btn--small}
+-->
     For course material and discussions visit [Canvas](https://auburn.instructure.com/){:target="_blank"}.
 
 <br />
