@@ -8,6 +8,10 @@ classes: wide
 
 <iframe style="width:100%; height:557.49995px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/Movie_Qcrit_fast2.mp4" frameborder="0" allowfullscreen></iframe>
 
+### Vorticity magnitude isosurfaces in a 3D cylinder flow
+
+<center><iframe style="width:75%; height:695.6999px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/CylFlow3D_wideFrame_cropped.mp4" frameborder="0" allowfullscreen></iframe></center>
+
 ### Temporal shear layer mixed-fluid isosurfaces
 
 <iframe style="width:100%; height:624.4999px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/IC2_isosurface_w_pdf_n_var_vslow_new4.mp4" frameborder="0" allowfullscreen></iframe>
