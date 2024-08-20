@@ -102,14 +102,20 @@ permalink: /people/
 <p>   </p>
 #### Graduate students
 
-Adithya Mayya
+Srijan Satyal
 
-Thiraj Wegala
+Ethan Hofer
+
+Minhazul Islam
+
+Ganesh Dhungana
+
+Uday Shanker Howlader
 <br/><br/>
 
 #### Undergraduate students
 
-Henry McCormick
+Walker Bried
 <br/>
 <br/>
 
