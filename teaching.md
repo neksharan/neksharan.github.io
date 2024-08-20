@@ -15,7 +15,7 @@ bigimg:
 
 <br />
 ### Spring 2023:         AERO 7140 Advanced Computational Fluid Dynamics
-###                                 AERO 3110 Aerodynamics I
+###                 AERO 3110 Aerodynamics I
 
 ### Fall 2022:         AERO 4970/7970 Computational Fluid Dynamics
 
